@@ -29,7 +29,7 @@ Rail Graph
 *Python · Flatland · NumPy · A\* · BFS · Multi-Agent Pathfinding*
 ## Demo
 
-Demo images and video will be added to this repository.
+![Flatland multi-agent planning demo](media/flatland-demo-clean.gif)
 
 ## Possible Improvements
 
